@@ -8,4 +8,4 @@ int main() {
     printf("%c\n",grade);
     return 0; 
 
-} #output:19,95.199997,A
+} //output:19,95.199997,A#
